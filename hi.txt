@@ -1,0 +1,59 @@
+hello world. This is a file
+pwd  - shows current working directory
+mkdir = if you want to make a new directory use this. (make directory)
+cd = if you want to change the current directory (to enter inside a folder)(change directory)
+ls = list's out all the directories.
+cd .. = go back one directory
+touch = to create a empty file .
+nano = it is used to store data inside the file .
+ctrl + x -----> y ------> enter 
+cat = is used to show the data inside the file.
+clear to clear everything 
+[ LINUX COMMAND ]
+GIT :
+version control system is a tools that helps to track changes in code.
+git is A Version control system. It isc:
+
+popular 
+free & open source
+fast and scaclable 
+
+uses :
+1. to track the history.
+2. to collaborate (multiple developer works in A single project .)
+
+
+GITHUB:
+it is a website that allows developers to store and manage their code using git .
+that folder in which all the codes are stored is called REPOSITORY.
+http://github.com
+
+terminologies in git
+repository
+working directory
+staging area(inex)
+commit
+commit id / version id
+snapshot
+tag:
+pull
+push
+server
+branch
+master(main)branch
+fork
+head 
+
+
+
+git workflow and architecture:
+
+
+
+imp commandsin git ;
+git config:
+git init:
+git add:
+git commit
+
+
