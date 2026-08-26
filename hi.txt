@@ -1,3 +1,6 @@
+
+
+
 hello world. This is a file
 pwd  - shows current working directory
 mkdir = if you want to make a new directory use this. (make directory)
@@ -28,32 +31,6 @@ it is a website that allows developers to store and manage their code using git 
 that folder in which all the codes are stored is called REPOSITORY.
 http://github.com
 
-terminologies in git
-repository
-working directory
-staging area(inex)
-commit
-commit id / version id
-snapshot
-tag:
-pull
-push
-server
-branch
-master(main)branch
-fork
-head 
 
-
-
-git workflow and architecture:
-
-
-
-imp commandsin git ;
-git config:
-git init:
-git add:
-git commit
 
 
